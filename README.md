@@ -1,2 +1,2 @@
 # Programming
-Menamilkan portofolio programming
+Menampilkan portofolio programming
